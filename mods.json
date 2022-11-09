@@ -54,6 +54,11 @@
 			"name": "TimeKeeper",
 			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeTimeKeeper/main/TimeKeeper.js",
       "execute": "run();"	
+		},
+		{
+			"name": "aiyiwowtgwl",
+			"url": "https://raw.githubusercontent.com/DarkSnakeGang/aiyiwowtgwl/main/code.js",
+      "execute": "window.snake.invisible();"	
 		}
 	]
 }
