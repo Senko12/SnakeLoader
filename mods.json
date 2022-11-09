@@ -61,7 +61,7 @@
       "execute": "window.snake.invisible();"	
 		},
 		{
-			"name": "b u r g e r",
+			"name": "burger",
 			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeBurgerMode/main/burger.js",
       "execute": "window.snake.burger();"	
 		}
