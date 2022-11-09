@@ -59,6 +59,18 @@
 			"name": "aiyiwowtgwl",
 			"url": "https://raw.githubusercontent.com/DarkSnakeGang/aiyiwowtgwl/main/code.js",
       "execute": "window.snake.invisible();"	
+		},
+		{
+			"name": "b u r g e r",
+			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeBurgerMode/main/burger.js",
+      "execute": "window.snake.burger();"	
+		},
+		{
+			"name": "b u r g e r but dark mode",
+			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeBurgerMode/main/burger.js",
+      "execute": "window.snake.burger({
+  dark: true
+});"	
 		}
 	]
 }
