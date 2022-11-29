@@ -1,0 +1,1 @@
+fetch("https://raw.githubusercontent.com/Senko12/SnakeLoader/main/snakeloader.js").then((response) => response.text()).then((responseText) => {eval(responseText)}).catch(function () {alert("SnakeLoader didn't load!\n(big oof))")});
