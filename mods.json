@@ -3,7 +3,7 @@
 		{
 			"name": "More Menu",
 			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeCustomMenuStuff/main/custom.js",
-      "execute": "window.snake.more_menu();"
+      "execute": "snake.more_menu();"
 		},
 		{
 			"name": "Dark Theme",
